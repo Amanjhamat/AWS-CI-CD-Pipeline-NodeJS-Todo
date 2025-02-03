@@ -1,5 +1,7 @@
 AutoDeploy: Dockerized Node.js Todo App CI/CD Pipeline
 This project implements a fully automated CI/CD pipeline for a Node.js-based Todo application, hosted on an EC2 instance. By leveraging Jenkins, Docker, and GitHub webhooks, the pipeline ensures efficient and error-free application updates and deployments.
+![image](https://github.com/user-attachments/assets/85f1720d-864a-4b35-8f0e-e2712f7cdc0e)
+
 
 Key Features:
 EC2 Instance Setup: Deployed and configured an EC2 instance to host the Todo application, providing a reliable and scalable environment.
