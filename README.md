@@ -18,3 +18,5 @@ GitHub Webhook Setup: Integrated GitHub webhooks to trigger automatic deployment
 
 Outcome:
 The project resulted in the successful implementation of an automated CI/CD pipeline, allowing for instantaneous deployment of changes to the live application upon code modifications. This provides a reliable, scalable, and efficient deployment process for continuous delivery of the Node.js Todo application.
+Kindly refer to the link below for a step-by-step walkthrough of the project:
+https://github.com/Amanjhamat/AWS-CI-CD-Pipeline-NodeJS-Todo/blob/main/Devops_project.pdf
